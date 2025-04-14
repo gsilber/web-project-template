@@ -12,5 +12,9 @@
     "@types/node": "^22.14.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@gsilber/express-ts-framework": "^0.6.8",
+    "shared": "file:../shared"
   }
 }
